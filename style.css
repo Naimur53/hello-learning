@@ -22,9 +22,12 @@ ul{
 	list-style-type:none;
 	
 }
-.wow{
+.said{
     background:red;
     height: 100px;
     width:100px;
     margin:0 auto;
 }
+  .container-fluid{
+      background:red;
+  }
